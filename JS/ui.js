@@ -1,5 +1,1 @@
-<Head>
-<style>
- 	body{background-color:blue;}
-</style>
-</head>
+console.log("hello")
